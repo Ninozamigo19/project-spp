@@ -1,0 +1,79 @@
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\APK_SPP.exe
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\APK_SPP.deps.json
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\APK_SPP.runtimeconfig.json
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\APK_SPP.dll
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\APK_SPP.pdb
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.csproj.AssemblyReference.cache
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form1.resources
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form2.resources
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Properties.Resources.resources
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.csproj.GenerateResource.cache
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.AssemblyInfoInputs.cache
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.AssemblyInfo.cs
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.csproj.CoreCompileInputs.cache
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.dll
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\refint\APK_SPP.dll
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.pdb
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.genruntimeconfig.cache
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\ref\APK_SPP.dll
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form3.resources
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.csproj.CopyComplete
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form4.resources
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form5.resources
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form6.resources
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form7.resources
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form10.resources
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form11.resources
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form8.resources
+C:\Users\PC 20\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form9.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\APK_SPP.exe
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\APK_SPP.deps.json
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\APK_SPP.runtimeconfig.json
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\APK_SPP.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\APK_SPP.pdb
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.csproj.AssemblyReference.cache
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form1.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form10.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form11.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form2.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form3.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form4.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form5.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form6.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form7.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form8.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form9.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Properties.Resources.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.csproj.GenerateResource.cache
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.AssemblyInfoInputs.cache
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.AssemblyInfo.cs
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.csproj.CoreCompileInputs.cache
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.csproj.CopyComplete
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\refint\APK_SPP.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.pdb
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.genruntimeconfig.cache
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\ref\APK_SPP.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form12.resources
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ninozamigo19\Documents\Ninozamigo19\APK_SPP\APK_SPP\obj\Debug\net6.0-windows\APK_SPP.Form13.resources
